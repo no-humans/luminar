@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+h1 {
+    color: rgb(120, 22, 211);
+}
+
+div {
+    color: rgb(16, 100, 196);
+    background-color: rgb(96, 161, 21);
+}
+
+#w1 {
+    color: antiquewhite;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+table {
+    text-align: center;
+}
+
+th {
+    background-color: rgb(31, 182, 89);
+}
